@@ -4,3 +4,4 @@ I am Rita06032004
 
 <img width="960" alt="week08-1" src="https://user-images.githubusercontent.com/114201528/198466977-a3c2efba-d8e8-4d9f-b10e-45f9bc4a7456.png">
 <img width="960" alt="week08-2" src="https://user-images.githubusercontent.com/114201528/198467030-4ce9dad8-61b5-4e22-9011-29a3c7d4b940.png">
+<img width="960" alt="week08-3" src="https://user-images.githubusercontent.com/114201528/198476737-9f6a9e9a-b544-428f-aec7-be2fa677619c.png">
