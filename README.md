@@ -9,3 +9,4 @@ I am Rita06032004
 #20221111
 <img width="960" alt="week10-1" src="https://user-images.githubusercontent.com/114201528/201245120-3df3bc5f-cd07-459b-939c-198f8ff6fcf1.png">
 <img width="960" alt="week10-2" src="https://user-images.githubusercontent.com/114201528/201249796-6c959de3-ca6f-4698-9f95-7ab920582594.png">
+<img width="960" alt="week11練習" src="https://user-images.githubusercontent.com/114201528/201254843-ec3ff28d-cdd4-4a04-beb4-dfb2e37f385e.png">
