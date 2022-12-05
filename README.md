@@ -24,3 +24,4 @@ I am Rita06032004
 <img width="960" alt="wee12-3" src="https://user-images.githubusercontent.com/114201528/203889472-5a76932b-b21c-4062-acd2-1c5f1e4d8825.png">
 <img width="960" alt="week12-5" src="https://user-images.githubusercontent.com/114201528/203896528-b5ad6959-0b9f-4328-90e1-11b74b51ac6e.png">
 ![week13-1](https://user-images.githubusercontent.com/114201528/205537588-3b97625a-8650-47f6-b644-46a9ee237da9.png)
+![week13-2](https://user-images.githubusercontent.com/114201528/205538059-087f94d3-2bdb-4bd9-bc01-9b514999a2fe.png)
