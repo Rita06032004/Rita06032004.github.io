@@ -26,3 +26,4 @@ I am Rita06032004
 
 #20221209
 <img width="960" alt="week14-1" src="https://user-images.githubusercontent.com/114201528/206604155-a5062fc4-47af-4ff7-b916-4ceab5cbbb61.png">
+<img width="960" alt="week14-2" src="https://user-images.githubusercontent.com/114201528/206605748-0b961f49-14da-4555-9544-c78a5a12577f.png">
