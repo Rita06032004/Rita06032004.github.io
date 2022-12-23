@@ -38,3 +38,4 @@ I am Rita06032004
 #20221223
 <img width="960" alt="week16-1" src="https://user-images.githubusercontent.com/114201528/209256060-374146ab-53d0-489d-9041-2911b1cbad6c.png">
 <img width="960" alt="week16-2" src="https://user-images.githubusercontent.com/114201528/209259582-212dd462-4e51-460d-aeb8-c4525c69c39e.png">
+![week16-3](https://user-images.githubusercontent.com/114201528/209262721-1be13406-0568-42d3-a55d-de379b80b459.png)
